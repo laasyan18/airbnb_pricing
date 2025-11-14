@@ -100,13 +100,3 @@ This analysis can help:
 
 ## 📝 Data Source
 Airbnb Open Data (Airbnb_Open_Data.csv)
-
-## 👤 Author
-Data Science & Visualization Project  
-Date: November 14, 2025
-
-## 📄 License
-This project is for educational purposes.
-
----
-**Note**: Ensure the Airbnb_Open_Data.csv file is in the parent directory (dsv/) before running the scripts.
